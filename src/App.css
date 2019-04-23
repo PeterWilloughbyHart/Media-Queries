@@ -138,12 +138,6 @@ background: rgba(0, 0, 0, 0.911);
 }
 
 @media (max-width: 400px) {
-.nav {
-  width: 90%;
-}
-}
-
-@media (max-width: 400px) {
 .headerImage-box {
   width: 100%;
 }
